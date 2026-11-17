@@ -1,0 +1,9 @@
+# Keil 用户界面 / 调试临时文件
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.dbgconf
+
+# Keil 编译中间产物
+Objects/
+Listings/
